@@ -1,4 +1,4 @@
-package com.kitxiao.boot.jd_gpuprice;
+package com.kitxiao.boot.crawler;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

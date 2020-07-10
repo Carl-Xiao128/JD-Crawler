@@ -1,4 +1,4 @@
-package com.kitxiao.boot.jd_gpuprice;
+package com.kitxiao.boot.crawler;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

@@ -1,4 +1,4 @@
-package com.kitxiao.boot.jd_gpuprice;
+package com.kitxiao.boot.crawler;
 
 import jdk.internal.org.xml.sax.SAXException;
 
