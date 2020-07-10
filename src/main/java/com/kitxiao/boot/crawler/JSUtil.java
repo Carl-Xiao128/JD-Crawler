@@ -1,7 +1,5 @@
 package com.kitxiao.boot.crawler;
 
-import jdk.internal.org.xml.sax.SAXException;
-
 import java.io.*;
 
 public class JSUtil {
@@ -12,7 +10,7 @@ public class JSUtil {
     private static String jsPath = projectPath + File.separator+ "hello.js";
     private static String exePath = projectPath +File.separator + "phantomjs.exe";
 
-    public static void main(String[] args) throws IOException, SAXException {
+    public static void main(String[] args) throws IOException {
 
         // 测试调用。传入url即可  
     	//String html = getParseredHtml("https://b2b.10086.cn/b2b/main/showBiao!showZhaobiaoResult.html");
